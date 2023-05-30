@@ -6,12 +6,13 @@ Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
 ## Contributors
+Abhishek Agarwal B520002
+Aryan B520011
+Kunal Agrawal B520027
 
 ## Objective
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+We aim to forecast the number of COVID-19 cases in a given region or population based on previous data using advanced deep learning methods. This helps to reduce the impact of the pandemic on individuals and communities, and to help society move towards a post-pandemic future.
 
 ### Prerequisites
 
