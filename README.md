@@ -6,9 +6,9 @@ Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
 ## Contributors
-Abhishek Agarwal B520002
-Aryan B520011
-Kunal Agrawal B520027
+- Abhishek Agarwal B520002
+- Aryan B520011
+- Kunal Agrawal B520027
 
 ## Objective
 
