@@ -15,3 +15,7 @@ We aim to forecast the number of COVID-19 cases in a given region or population 
 
 [https://drive.google.com/file/d/1boN9nL75nWCHz9GMGyJ0cEPaUlImx4jm/view?usp=sharing
 ](https://colab.research.google.com/drive/1boN9nL75nWCHz9GMGyJ0cEPaUlImx4jm)
+
+### Video Demonstration
+
+https://drive.google.com/file/d/1utwhyoXaNW7_C26KglZlQEF0sFlRVs1j/view?usp=sharing
