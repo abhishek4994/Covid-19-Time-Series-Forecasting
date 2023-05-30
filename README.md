@@ -1,4 +1,4 @@
-# Project Title
+## Project Title
 
 Covid-19 Time Series Forecasting
 
