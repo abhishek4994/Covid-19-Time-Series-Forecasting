@@ -9,7 +9,7 @@ Covid-19 Time Series Forecasting
 
 ## Objective
 
-We aim to forecast the number of COVID-19 cases in a given region or population based on previous data using advanced deep learning methods. This helps to reduce the impact of the pandemic on individuals and communities, and to help society move towards a post-pandemic future.
+We aim to predict the number of COVID-19 cases in a given region or population based on previous data using advanced deep learning methods. This helps to reduce the impact of the pandemic on individuals and communities, and to help society move towards a post-pandemic future.
 
 ### Google Colab Link
 
