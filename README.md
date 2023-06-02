@@ -3,13 +3,13 @@
 Covid-19 Time Series Forecasting
 
 ## Contributors
-- Abhishek Agarwal B520002
-- Aryan B520011
-- Kunal Agrawal B520027
+- Abhishek Agarwal- B520002
+- Aryan- B520011
+- Kunal Agrawal- B520027
 
 ## Objective
 
-We aim to predict the number of COVID-19 cases in a given region or population based on previous data using advanced deep learning methods. This helps to reduce the impact of the pandemic on individuals and communities, and to help society move towards a post-pandemic future.
+Using advanced deep learning techniques, we hope to forecast the amount of COVID-19 cases in a specific area or population based on prior data. This helps society transition to a post-epidemic future and lessens the effects of the pandemic on people and communities.
 
 ### Google Colab Link
 
